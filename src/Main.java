@@ -7,6 +7,8 @@ public class Main {
         test(); // appel de la fonction avec nom de la fonction main
     }
 
+
+    // Exercice Logique Tableau
     public static void test() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Combien de valeur voulez-vous dans votre tableau ?");
@@ -41,7 +43,7 @@ public class Main {
 
 
 
-    
+
 
 
 }
